@@ -1,0 +1,27 @@
+{
+  "name": "javascript",
+  "version": "1.0.0",
+  "description": "repositório da trilha de javascript da alura",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/phmiranda/javascript.git"
+  },
+  "keywords": [
+    "alura",
+    "javascript"
+  ],
+  "author": "Pedro Henrique",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/phmiranda/javascript/issues"
+  },
+  "homepage": "https://github.com/phmiranda/javascript#readme",
+  "dependencies": {
+    "bootstrap": "^4.5.2",
+    "jquery": "^3.5.1"
+  }
+}
