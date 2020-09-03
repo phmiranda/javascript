@@ -1,10 +1,10 @@
-# Alura - Trilha de Desenvolvimento Javascript
+# Novatec - JavaScript: Guia do Programador
 
-Para saber quais são os cursos da trilha de javascript da alura, basta acessar o link [aqui](https://www.alura.com.br/cursos-online-front-end/javascript)
+Para saber mais sobre a obra, acessar o link [aqui](https://novatec.com.br/livros/javascript-guia-programador/)
 
-## Lista dos Cursos de Javascript
+## Javascript: Guia do Programador (Capa)
 
-![alura-javascript](storage/alura-javascript.jpeg)
+![alura-javascript](storage/livro)
 
 ## Configuração dos Ambientes
 
