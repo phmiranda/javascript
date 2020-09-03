@@ -4,7 +4,7 @@ Para saber quais são os cursos da trilha de javascript da alura, basta acessar 
 
 ## Lista dos Cursos de Javascript
 
-![alura-javascript](storage/alura-javascript.jpeg)
+![alura-javascript](storage/livro)
 
 ## Configuração dos Ambientes
 
