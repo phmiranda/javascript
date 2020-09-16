@@ -16,8 +16,5 @@
     "url": "https://github.com/phmiranda/javascript-console/issues"
   },
   "homepage": "https://github.com/phmiranda/javascript-console#readme",
-  "dependencies": {
-    "bootstrap": "^4.5.2",
-    "jquery": "^3.5.1"
-  }
+  "dependencies": {}
 }
