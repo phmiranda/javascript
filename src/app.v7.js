@@ -1,7 +1,7 @@
 /* Aula 04 - Trabalhando com Condicionais */
 
 const listaDeDestinos = ['Brasília', 'Rio de Janeiro', 'São Paulo'];
-const idadeComprador = 15;
+const idadeComprador = 18;
 const estaAcompanhada = false;
 const temPassagemComprada = true;
 
@@ -18,19 +18,22 @@ const temPassagemComprada = true;
 //         console.log("Não é maior de idade e não posso vender");
 // }
 
+// mostra a lista de destinos
+console.info(listaDeDestinos);
+
 // bloco utilizando comparação na mesma verificação.
-if (idadeComprador >= 18 || estaAcompanhada == true){
-    console.log("Comprador é maior de idade.");
+if (idadeComprador >= 18 || estaAcompanhada === true){
+    console.log("O CLIENTE PRECISA SER MAIOR DE IDADE OU ESTÁ ACOMPANHADA: TENHA UMA BOA VIAGEM.");
     listaDeDestinos.splice(1,1);
 } else {
     // bloco de código caso haja algum retorno FALSE
-    console.log("Não é maior de idade e não posso vender");
+    console.log("O CLIENTE NÃO É MAIOR DE IDADE E NÃO É POSSÍVEL VENDER UMA PASSAGEM.");
 }
 
 if (idadeComprador >= 18 && temPassagemComprada){
-    console.log("Boa Viagem");
+    console.log("O CLIENTE É MAIOR DE IDADE E A COMPRA DA SUA PASSAGEM FOI CONFIRMADA.");
 }else {
-    console.log("Você não pode embarcar");
+    console.log("O CLIENTE NÃO PODE EMBARCAR");
 }
 
 console.info(listaDeDestinos);
